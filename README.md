@@ -1,5 +1,11 @@
 # Raj Sonkar — Portfolio
 
+
+
+https://github.com/user-attachments/assets/da324ea5-5de1-4b14-a9e1-fd9bc7d315c3
+
+
+
 My personal portfolio showcases my work in AI and machine learning, workflow automation, and SAP functional consulting. It includes my projects, internships, technical skills, education, and certifications.
 
 ## Features
